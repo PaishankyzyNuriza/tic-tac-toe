@@ -8,7 +8,7 @@ A simple console-based Tic Tac Toe game implemented in C#. Done by Nuriza Paisha
 - [Screenshots](#screenshots)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
-- 
+  
 ## Introduction
 
 Welcome to the Tic Tac Toe Console Game! This project is a classic implementation of the popular Tic Tac Toe game designed for the console environment using C#.
