@@ -21,8 +21,10 @@ Welcome to the Tic Tac Toe Console Game! This project is a classic implementatio
 
 ## Screenshots
 
-![Game Screenshot](screenshots/gameplay.png)
-*Add more screenshots as needed.*
+![image](https://github.com/PaishankyzyNuriza/tic-tac-toe/assets/73305001/e89d2cf4-9e53-4269-b5f0-8cf964b3ef03)
+![image](https://github.com/PaishankyzyNuriza/tic-tac-toe/assets/73305001/6820d18b-8a96-44a3-ac7c-f6f4d244abe4)
+![image](https://github.com/PaishankyzyNuriza/tic-tac-toe/assets/73305001/0a499d0e-ea91-4852-b0fb-026dcf660ed5)
+
 
 ## How to Play
 
