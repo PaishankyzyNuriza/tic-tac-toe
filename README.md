@@ -24,7 +24,8 @@ Welcome to the Tic Tac Toe Game! This project is a classic implementation of Tic
 
 ## Screenshots
 
-
+![Capture2](https://github.com/PaishankyzyNuriza/tic-tac-toe/assets/73305001/0ab7d01b-41c3-4cfe-8400-85f7e125d353)
+![Capture](https://github.com/PaishankyzyNuriza/tic-tac-toe/assets/73305001/9a26bc5f-1d1c-4e1e-a0b5-2190d6a98786)
 
 ## How to Play
 
@@ -46,4 +47,4 @@ To start a new game and reset the win count, simply choose the option to reset t
 Clone the repository to your local machine using the following command:
 
 ```bash
-
+https://github.com/PaishankyzyNuriza/tic-tac-toe.git
